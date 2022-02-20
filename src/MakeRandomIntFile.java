@@ -8,7 +8,7 @@ public class MakeRandomIntFile {
         Random rand = new Random();
 
         FileWriter fw = new FileWriter("int.txt", false);
-        for(int i = 0; i< 1000 ;i++){
+        for(int i = 0; i< 250 ;i++){
             fw.write(new Integer(rand.nextInt(2147483647)).toString()+"\n");
         }
         fw.close();

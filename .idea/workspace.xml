@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c554d2e2-b919-4511-bc7f-5769b9a6bb8c" name="Default Changelist" comment="" />
+    <list default="true" id="c554d2e2-b919-4511-bc7f-5769b9a6bb8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MergedInt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubleSortInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleMerge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MergeSort/MakeRandomIntFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MergeSort/MakeRandomIntFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MergeSort/MakeRandomStringFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MergeSort/MakeRandomStringFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MergeSort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MergeSort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MakeRandomIntFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MakeRandomIntFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MakeRandomStringFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MakeRandomStringFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +55,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MakeRandomIntFile">
+  <component name="RunManager" selected="Application.SimpleMerge">
+    <configuration name="BubleSortInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubleSortInt" />
+      <module name="MergeSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MakeRandomIntFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MakeRandomIntFile" />
+      <module name="MergeSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeRandomStringFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakeRandomStringFile" />
       <module name="MergeSort" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,9 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleMerge" />
+      <module name="MergeSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleMerge" />
+        <item itemvalue="Application.BubleSortInt" />
         <item itemvalue="Application.MakeRandomIntFile" />
+        <item itemvalue="Application.MakeRandomStringFile" />
         <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
@@ -76,11 +114,51 @@
       <workItem from="1645189475025" duration="2790000" />
       <workItem from="1645234141609" duration="5174000" />
       <workItem from="1645261794879" duration="1441000" />
-      <workItem from="1645263493127" duration="4386000" />
+      <workItem from="1645263493127" duration="10013000" />
+      <workItem from="1645325174342" duration="18525000" />
     </task>
+    <task id="LOCAL-00001" summary="Firts commit">
+      <created>1645271412489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645271412489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Firts commit">
+      <created>1645271458871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645271458871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Firts commit">
+      <created>1645271576392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645271576392</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Firts commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Firts commit" />
   </component>
 </project>
